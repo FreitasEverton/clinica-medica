@@ -1,0 +1,1 @@
+Uma aplicação médica com todo cuidado a sua saúde.
